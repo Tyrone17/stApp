@@ -11,7 +11,7 @@
     "express": "^4.18.2"
   },
   "repository": {
-  
+    "git":"https://github.com/Tyrone17/stApp.git"
   },
   "bugs": {
    
